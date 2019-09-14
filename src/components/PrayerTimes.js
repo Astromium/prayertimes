@@ -21,7 +21,7 @@ class PrayerTimes extends Component {
 
     const { name, name2 } = this.props.match.params;
 
-    const api = `http://api.aladhan.com/v1/calendarByCity?city=${name}&country=Algeria&method=4&month=${month}&year=${year}`;
+    const api = `https://api.aladhan.com/v1/calendarByCity?city=${name}&country=Algeria&method=4&month=${month}&year=${year}`;
 
     const res = fetch(api)
       .then(response => response.json())
