@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prayertimes/static/css/main.e939c9cc.chunk.css",
-    "main.js": "/prayertimes/static/js/main.09410ebe.chunk.js",
-    "main.js.map": "/prayertimes/static/js/main.09410ebe.chunk.js.map",
+    "main.js": "/prayertimes/static/js/main.e7715666.chunk.js",
+    "main.js.map": "/prayertimes/static/js/main.e7715666.chunk.js.map",
     "runtime~main.js": "/prayertimes/static/js/runtime~main.39707e78.js",
     "runtime~main.js.map": "/prayertimes/static/js/runtime~main.39707e78.js.map",
     "static/js/2.197dee30.chunk.js": "/prayertimes/static/js/2.197dee30.chunk.js",
     "static/js/2.197dee30.chunk.js.map": "/prayertimes/static/js/2.197dee30.chunk.js.map",
     "index.html": "/prayertimes/index.html",
-    "precache-manifest.ffa18bcd6bc5484b4a02e71a311d7ba5.js": "/prayertimes/precache-manifest.ffa18bcd6bc5484b4a02e71a311d7ba5.js",
+    "precache-manifest.0c4ed8c63c168df7862aae8832f08dfc.js": "/prayertimes/precache-manifest.0c4ed8c63c168df7862aae8832f08dfc.js",
     "service-worker.js": "/prayertimes/service-worker.js",
     "static/css/main.e939c9cc.chunk.css.map": "/prayertimes/static/css/main.e939c9cc.chunk.css.map"
   }
