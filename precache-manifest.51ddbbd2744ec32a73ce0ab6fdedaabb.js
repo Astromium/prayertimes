@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a7708687bf7e7195178153a7213448a",
+    "revision": "711b3a3d629a9c9164687de6cb0e12c9",
     "url": "/prayertimes/index.html"
   },
   {
-    "revision": "275ecbe4130601cdc1f2",
+    "revision": "9039bf6d35e287d8c5da",
     "url": "/prayertimes/static/css/main.e939c9cc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/prayertimes/static/js/2.1cd0f9a1.chunk.js"
   },
   {
-    "revision": "275ecbe4130601cdc1f2",
-    "url": "/prayertimes/static/js/main.19f54ca4.chunk.js"
+    "revision": "9039bf6d35e287d8c5da",
+    "url": "/prayertimes/static/js/main.c2d88925.chunk.js"
   },
   {
     "revision": "c13d26666ede5dd39082",
