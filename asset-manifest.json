@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/prayertimes/static/css/main.e939c9cc.chunk.css",
-    "main.js": "/prayertimes/static/js/main.f075307a.chunk.js",
-    "main.js.map": "/prayertimes/static/js/main.f075307a.chunk.js.map",
+    "main.js": "/prayertimes/static/js/main.75623186.chunk.js",
+    "main.js.map": "/prayertimes/static/js/main.75623186.chunk.js.map",
     "runtime~main.js": "/prayertimes/static/js/runtime~main.39707e78.js",
     "runtime~main.js.map": "/prayertimes/static/js/runtime~main.39707e78.js.map",
-    "static/js/2.986c8782.chunk.js": "/prayertimes/static/js/2.986c8782.chunk.js",
-    "static/js/2.986c8782.chunk.js.map": "/prayertimes/static/js/2.986c8782.chunk.js.map",
+    "static/js/2.c2bfb930.chunk.js": "/prayertimes/static/js/2.c2bfb930.chunk.js",
+    "static/js/2.c2bfb930.chunk.js.map": "/prayertimes/static/js/2.c2bfb930.chunk.js.map",
     "index.html": "/prayertimes/index.html",
-    "precache-manifest.8b6011f46cf9b059daa5ab4f70d2e98d.js": "/prayertimes/precache-manifest.8b6011f46cf9b059daa5ab4f70d2e98d.js",
+    "precache-manifest.268c3a8b719309ae123eb83575e35a18.js": "/prayertimes/precache-manifest.268c3a8b719309ae123eb83575e35a18.js",
     "service-worker.js": "/prayertimes/service-worker.js",
     "static/css/main.e939c9cc.chunk.css.map": "/prayertimes/static/css/main.e939c9cc.chunk.css.map"
   }
